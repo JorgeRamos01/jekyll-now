@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: Acerca de mi
 permalink: /about/
 ---
 
-Some information about you!
+Actualmente soy estudiante de segundo año de la maestria en Cómputo Estadístico en el CIMAT campus Monterrey. Tengo dos carreras, una en Economia y otra en Matemáticas ambas por la Universidad Veracruzana. Mis intereses se encuentran principalmente en la econometría, la visión computacional, el procesamiento de lenguaje natural y el modelado de datos georreferenciados.
 
-### More Information
+### Algo más sobre mi
 
-A place to include any other types of information that you'd like to include about yourself.
+Entre mis hobbies se encuentran explorar nuevos lugares y comidas, cocinar, leer novelas y escuchar todo tipo de música.
 
-### Contact me
+### Contacto
 
-[email@domain.com](mailto:email@domain.com)
+[jorge.ramos@cimat.mx](mailto:jorge.ramos@cimat.mx)
